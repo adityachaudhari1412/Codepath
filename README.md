@@ -22,8 +22,8 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [x ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [x ] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [x] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [x] More than 4 functional game buttons
 * [x] Playback speeds up on each turn
 * [ ] Computer picks a different pattern each time the game is played
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](https://i.imgur.com/MGZJldV.gif)
 
 
 ## Reflection Questions
